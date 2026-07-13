@@ -1,0 +1,23 @@
+{
+  "name": "polite-book-scraper",
+  "version": "1.0.0",
+  "description": "A polite web scraper built with Node.js, Axios, and Cheerio.",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js"
+  },
+  "keywords": [
+    "web-scraping",
+    "nodejs",
+    "axios",
+    "cheerio",
+    "backend",
+    "ai-engineering"
+  ],
+  "author": "Sai Surya",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "cheerio": "^1.1.2"
+  }
+}
